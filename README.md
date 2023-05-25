@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @lucinaryow
-- 👀 I’m interested in anything related to tech
-- 🌱 I’m currently learning HTML CSS and JS
-- 💞️ I’m looking to collaborate on any projects that i can contribute to
-- 📫 How to reach me twitter: @lucinaryow2
+#🧑‍💻💻 MEL LUCINARIO
 
-<!---
-lucinaryow/lucinaryow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**`Code Magician (Registered Electrical Engineer/Web Developer/Tech Enthusiast)`**
+
+Hello! I'm a passionate web developer and tech enthusiast, being a graduate of Electrical Engineering I was introduced to programming in one of my subjects and I instantly fell in love with it. Driven by curiosity, I continued in studying web development myself and keep myself up to date with the differentt technological advancements and trends. With a myriad of technologies and tools at my disposal, I create functional websites for clients and transform their ideas into something that will leave a lasting impression on users. My mission is making your vision a reality, Let's connect and explore limitless possibilities!
+
