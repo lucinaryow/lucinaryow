@@ -18,3 +18,12 @@ Hello! I'm a passionate web developer and tech enthusiast, being a graduate of E
       src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=3aaded&color=black"
   /></a>
  
+<h2>🧰 Languages and Tools</h2>
+<p>
+  <img href="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img href="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img href="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img href="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img href="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img href="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+</p>
