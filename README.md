@@ -7,6 +7,6 @@ Hello! I'm a passionate web developer and tech enthusiast, being a graduate of E
 <p align = "left">
   <a href="https://twitter.com/lucinaryow2" target="blank"
     ><img
-      src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=black
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=3aaded&color=black"
   /></a>
  
