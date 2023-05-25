@@ -1,4 +1,4 @@
-# 🧑‍💻💻 MEL LUCINARIO
+<img src=".assets/freelance.png">
 
 **`Code Magician 🧙 (Registered Electrical Engineer/Web Developer/Tech Enthusiast)`**
 
