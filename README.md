@@ -9,7 +9,7 @@ Hello! I'm a passionate web developer and tech enthusiast, being a graduate of E
     ><img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=3aaded&color=black"
   /></a>
-   <a href="https://www.linkedin.com/in/mel-lucinario-99bb811a2/" target="_blank"
+   <a href="https://www.linkedin.com/in/lucinaryow" target="_blank"
     ><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=3aaded&color=black"
   /></a>
